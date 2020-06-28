@@ -27,19 +27,20 @@ Tools • Dart 2.7.0
 Tela inicial com os anuncios adicionados 
 
 <img src="tela1.png" alt="drawing" width="200"/>
-![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela1.png =100x100)
+
 
 Tela Detalhes do anicio selecionado
 
-![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela2.png)
+<img src="tela2.png" alt="drawing" width="200"/>
 
 Navigation Drawer com informações do usuario e algumas opções
 
-![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela3.png)
+<img src="tela3.png" alt="drawing" width="200"/>
 
 Tela com Form para adicionar o anuncio
 
-![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela4.png)
+<img src="tela4.png" alt="drawing" width="200"/>
+
 
 ## Deployment
 
