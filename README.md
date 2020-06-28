@@ -29,7 +29,7 @@ Tela inicial com os anuncios adicionados
 <img src="tela1.png" alt="drawing" width="200"/>
 
 
-Tela Detalhes do anicio selecionado
+Tela Detalhes do anuncio selecionado
 
 <img src="tela2.png" alt="drawing" width="200"/>
 
