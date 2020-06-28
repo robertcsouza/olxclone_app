@@ -26,7 +26,7 @@ Tools • Dart 2.7.0
 
 Tela inicial com os anuncios adicionados 
 
-![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela1.png)
+![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela1.png =100x100)
 
 Tela Detalhes do anicio selecionado
 
