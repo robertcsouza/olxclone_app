@@ -4,7 +4,7 @@ Oprojeto conciste em um clone do App OLX com algumas das principais funcionalida
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Projeto pronto para Rodar, necessario apenas o SDK do flutter instalado
 
 ### Prerequisites
 
@@ -22,7 +22,22 @@ Tools • Dart 2.7.0
 
 ## Running the tests
 
-images here 
+Tela inicial com os anuncios adicionados 
+
+![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela1.png)
+
+Tela Detalhes do anicio selecionado
+
+![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela2.png)
+
+Navigation Drawer com informações do usuario e algumas opções
+
+![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela3.png)
+
+Tela com Form para adicionar o anuncio
+
+![alt text](https://github.com/robertcsouza/olxclone_app/blob/master/tela4.png)
+
 ## Deployment
 
 Falta algumas implementações pendentes porem o projeto é so para fins de conhecimento, 
