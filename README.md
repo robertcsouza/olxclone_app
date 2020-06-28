@@ -1,16 +1,42 @@
-# olxclone_app
+# Clone OLX
 
-A new Flutter application.
+Oprojeto conciste em um clone do App OLX com algumas das principais funcionalidades,implementado em FLutter para ndroid e IOS
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Para Rodar o projeto é necessario ter o SDK flutter Instalador
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installing
+
+ O projeto esta rodando nas segintes especificações:
+ 
+Flutter 1.12.13+hotfix.5 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 27321ebbad (7 months ago) • 2019-12-10 18:15:01 -0800
+Engine • revision 2994f7e1e6
+Tools • Dart 2.7.0
+```
+
+## Running the tests
+
+images here 
+## Deployment
+
+Falta algumas implementações pendentes porem o projeto é so para fins de conhecimento, 
+
+## Built With
+
+* [Flutter 1.12.13+hotfix.5 
+* Dart 2.7.0
+## Authors
+
+* **Roberto Chaves Souza** - *Initial work* - [robertcsouza](https://github.com/robertcsouza)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
